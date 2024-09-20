@@ -1,0 +1,4 @@
+[core]
+    remote = s3://mlopsdvc20072024
+['remote "s3://mlopsdvc20072024"']
+    url = ../url
